@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59055c98-57bd-4ccf-bc93-16edaa1e4dd3" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="5442" column="26" lean-forward="true" selection-start-line="5442" selection-start-column="26" selection-end-line="5442" selection-end-column="26" />
+              <folding>
+                <element signature="e#68361#68561#2" expanded="true" />
+                <element signature="e#68789#68938#2" expanded="true" />
+                <element signature="e#69499#69645#2" expanded="true" />
+                <element signature="e#70001#70167#1" expanded="true" />
+                <element signature="e#81581#81824#2" expanded="true" />
+                <element signature="e#82826#83075#2" expanded="true" />
+                <element signature="e#113318#113508#2" expanded="true" />
+                <element signature="e#113563#113753#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="107">
+              <caret line="183" column="42" selection-start-line="183" selection-start-column="42" selection-end-line="183" selection-end-column="42" />
+              <folding>
+                <element signature="e#4784#4790#0#HTML" expanded="true" />
+                <element signature="e#5534#5540#0#HTML" expanded="true" />
+                <element signature="e#7013#7019#0#HTML" expanded="true" />
+                <element signature="e#7837#7843#0#HTML" expanded="true" />
+                <element signature="e#8530#8536#0#HTML" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.html" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+              <folding>
+                <element signature="e#2279#2285#0" expanded="true" />
+                <element signature="e#3029#3035#0" expanded="true" />
+                <element signature="e#4508#4514#0" expanded="true" />
+                <element signature="e#5332#5338#0" expanded="true" />
+                <element signature="e#6025#6031#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\&lt;\!DOCTYPE html\&gt;\n\&lt;html\&gt;\n\n\&lt;head\&gt;\n    \&lt;meta charset\=\&quot;utf\-8\&quot;\&gt;\n    \&lt;meta name\=\&quot;viewport\&quot; content\=\&quot;width\=device\-width\, initial\-scale\=1\&quot;\&gt;\n    \&lt;\!\-\-\&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;https\:\/\/cdnjs\.cloudflare\.com\/ajax\/libs\/font\-awesome\/4\.7\.0\/css\/font\-awesome\.min\.css\&quot; type\=\&quot;text\/css\&quot;\&gt;\-\-\&gt;\n    \&lt;link rel\=\&quot;stylesheet\&quot; href\=\&quot;main\.css\&quot; type\=\&quot;text\/css\&quot;\&gt; \&lt;\/head\&gt;\n\n\&lt;body\&gt;\n\&lt;nav class\=\&quot;navbar navbar\-expand\-md bg\-primary navbar\-dark\&quot;\&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand\&quot; href\=\&quot;\#\&quot;\&gt;\n            \&lt;i class\=\&quot;fa d\-inline fa\-lg fa\-cloud\&quot;\&gt;\&lt;\/i\&gt;\n            \&lt;b\&gt;TACE\&lt;\/b\&gt;\n        \&lt;\/a\&gt;\n        \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbar2SupportedContent\&quot;\&gt;\n            \&lt;span class\=\&quot;navbar\-toggler\-icon\&quot;\&gt;\&lt;\/span\&gt;\n        \&lt;\/button\&gt;\n        \&lt;div class\=\&quot;collapse navbar\-collapse text\-center justify\-content\-end\&quot; id\=\&quot;navbar2SupportedContent\&quot;\&gt;\n            \&lt;ul class\=\&quot;navbar\-nav\&quot;\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;\n                        \&lt;i class\=\&quot;fa d\-inline fa\-lg fa\-bookmark\-o\&quot;\&gt;\&lt;\/i\&gt; Bookmarks\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link\&quot; href\=\&quot;\#\&quot;\&gt;\n                        \&lt;i class\=\&quot;fa d\-inline fa\-lg fa\-envelope\-o\&quot;\&gt;\&lt;\/i\&gt; Contacts\&lt;\/a\&gt;\n                \&lt;\/li\&gt;\n            \&lt;\/ul\&gt;\n            \&lt;a class\=\&quot;btn navbar\-btn ml\-2 text\-white btn\-secondary\&quot;\&gt;\n                \&lt;i class\=\&quot;fa d\-inline fa\-lg fa\-user\-circle\-o\&quot;\&gt;\&lt;\/i\&gt; Sign in\&lt;\/a\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;\n\&lt;div class\=\&quot;py\-5 text\-center\&quot; style\=\&quot;background\-image\: url\(\&amp;quot\;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/cover_event\.jpg\&amp;quot\;\)\;\&quot;\&gt;\n    \&lt;div class\=\&quot;container py\-5\&quot; \&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-md\-12\&quot;\&gt;\n                \&lt;h1 class\=\&quot;display\-3 mb\-4 text\-primary\&quot;\&gt;Hero image intro\&lt;\/h1\&gt;\n                \&lt;p class\=\&quot;lead mb\-5\&quot;\&gt;Pingendo is a HTML editor for everyone\. Easy for newbies\, useful for professionals\.\n                    \&lt;br\&gt;Code quality is a must\. Pingendo generates clean\, battle\-tested\, modular Bootstrap 4 code\. \&lt;\/p\&gt;\n                \&lt;a href\=\&quot;\#\&quot; class\=\&quot;btn btn\-lg mx\-1 btn\-secondary\&quot;\&gt;A claim here\&lt;\/a\&gt;\n                \&lt;a href\=\&quot;\#\&quot; class\=\&quot;btn btn\-lg btn\-primary mx\-1\&quot;\&gt;Your call to action\&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;div class\=\&quot;py\-5 bg\-secondary\&quot;\&gt;\n    \&lt;div class\=\&quot;container\-fluid\&quot;\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;col\-md\-12\&quot;\&gt;\n                \&lt;h1 class\=\&quot;text\-center mb\-5 text\-white\&quot;\&gt;Gallery stories\&lt;\/h1\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n        \&lt;div class\=\&quot;row\&quot;\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_6\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_2\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_3\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_1\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_5\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;p\-0 col\-md\-2 col\-6\&quot;\&gt;\n                \&lt;a href\=\&quot;stories\.html\&quot;\&gt;\n                    \&lt;img src\=\&quot;https\:\/\/pingendo\.github\.io\/templates\/sections\/assets\/stories_4\.jpg\&quot; class\=\&quot;img\-fluid\&quot;\&gt; \&lt;\/a\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/div\&gt;\n\&lt;\/body\&gt;\n\n\&lt;\/html\&gt;</find>
+      <find>we</find>
+      <find>carousel-caption</find>
+      <find>fa</find>
+      <find>nav</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.css" />
+        <option value="$PROJECT_DIR$/main.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.scss" />
+        <option value="$USER_HOME$/Documents/lemp_docker_advance/www/regis/template.html" />
+        <option value="$USER_HOME$/Documents/lemp_docker_advance/www/regis/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$USER_HOME$/Documents/lemp_docker_advance/www/regis/node_modules/bootstrap/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1280" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="regis" type="cbb8eebc:String" user="regis" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="regis" type="cbb8eebc:String" user="regis" />
+              <item name="assets" type="cbb8eebc:String" user="assets" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Learnbstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="regis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learnbstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Learnbstrap" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Documents/lemp_docker_advance/www/" />
+      <recent name="$USER_HOME$/Documents/lemp_docker_advance/www/taceregister" />
+      <recent name="$USER_HOME$/Documents/lemp_docker_advance/www" />
+      <recent name="$USER_HOME$/Documents/lemp_docker_advance/www/taceregis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59055c98-57bd-4ccf-bc93-16edaa1e4dd3" name="Default" comment="" />
+      <created>1528466744684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528466744684</updated>
+      <workItem from="1528466748715" duration="12072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12072000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1280" height="778" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.14977974" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16720517" />
+      <window_info anchor="bottom" id="Docker" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="60" lean-forward="true" selection-start-column="60" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/assets/images/carousel1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="5442" column="26" lean-forward="true" selection-start-line="5442" selection-start-column="26" selection-end-line="5442" selection-end-column="26" />
+          <folding>
+            <element signature="e#68361#68561#2" expanded="true" />
+            <element signature="e#68789#68938#2" expanded="true" />
+            <element signature="e#69499#69645#2" expanded="true" />
+            <element signature="e#70001#70167#1" expanded="true" />
+            <element signature="e#81581#81824#2" expanded="true" />
+            <element signature="e#82826#83075#2" expanded="true" />
+            <element signature="e#113318#113508#2" expanded="true" />
+            <element signature="e#113563#113753#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="122" lean-forward="true" selection-start-line="122" selection-end-line="122" />
+          <folding>
+            <element signature="e#2279#2285#0" expanded="true" />
+            <element signature="e#3029#3035#0" expanded="true" />
+            <element signature="e#4508#4514#0" expanded="true" />
+            <element signature="e#5332#5338#0" expanded="true" />
+            <element signature="e#6025#6031#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/lemp_docker_advance/www/regis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="183" column="42" selection-start-line="183" selection-start-column="42" selection-end-line="183" selection-end-column="42" />
+          <folding>
+            <element signature="e#4784#4790#0#HTML" expanded="true" />
+            <element signature="e#5534#5540#0#HTML" expanded="true" />
+            <element signature="e#7013#7019#0#HTML" expanded="true" />
+            <element signature="e#7837#7843#0#HTML" expanded="true" />
+            <element signature="e#8530#8536#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
